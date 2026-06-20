@@ -15,7 +15,7 @@ lock = threading.Lock()
 # ---------------------------------------------------------
 # 2. TikTok Connect
 # ---------------------------------------------------------
-client = TikTokLiveClient(unique_id="@secrets_of_universe_lk")
+client = TikTokLiveClient(unique_id="@darkfrenchvibes")
 
 @client.on(ConnectEvent)
 async def on_connect(event: ConnectEvent):
