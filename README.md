@@ -15,7 +15,4 @@ Viewers ලා Comment කරන දේවල් වලින් මගේ ය�
 | `win` | Unlock Attempt 🏆 |
 | `Rose Gift` | Divine Energy +50 🌹 |
 
-### 🚀 Run කරන්නේ මෙහෙම
-```bash
-pip install -r requirements.txt
-python main.py
+
